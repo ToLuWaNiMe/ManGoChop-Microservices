@@ -1,4 +1,4 @@
-ManGoChop Food Delivery ApplicationMangochop is a modern and efficient food delivery application built using ASP.NET microservices architecture. With Mangochop, users can conveniently browse through a wide range of restaurants, place orders, and have delicious meals delivered straight to their doorstep.
+ManGoChop Food Delivery Application is a modern and efficient food delivery application built using ASP.NET microservices architecture. With Mangochop, users can conveniently browse through a wide range of restaurants, place orders, and have delicious meals delivered straight to their doorstep.
 
 Features
 User-friendly Interface: Enjoy a seamless and intuitive user experience with our easy-to-navigate interface.
